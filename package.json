@@ -1,0 +1,35 @@
+{
+  "name": "@mikediamant/guru99.",
+  "version": "1.0.1",
+  "description": "Learning Node.js",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "git-upload": "^1.1.4",
+    "http-server": "^0.11.1",
+    "jade": "^1.11.0",
+    "pug": "^2.0.3",
+    "request": "^2.88.0",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MikeDiamant <mike.diamant@gmail.com> (http://diamondprofessionalservices.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeDiamant/guru99..git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "Guru"
+  ],
+  "bugs": {
+    "url": "https://github.com/MikeDiamant/guru99./issues"
+  },
+  "homepage": "https://github.com/MikeDiamant/guru99.#readme"
+}
